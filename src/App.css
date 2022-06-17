@@ -2,3 +2,28 @@
   text-align: center;
 }
 
+.container ul {
+  list-style-type: none;
+}
+
+.header-title {
+  font-family: serif;
+}
+
+.inputArea {
+  margin: 30px 0;
+}
+
+.inputForm {
+  height: 35px;
+  border-radius: 4px;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.todo-list {
+  padding: 16px;
+}
