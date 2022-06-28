@@ -1,4 +1,4 @@
- ## React ReactNative Memos
+ # React ReactNative Memos
  
  ## 画面遷移
 Stack.screenコンポーネントから渡される、propsの中のnavigationオブジェクトのnavigate関数を用いる
